@@ -27,7 +27,11 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Vitoryu&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitoryu&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="480em" src="https://github-readme-stats.vercel.app/api?username=Vitoryu&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitoryu&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
+
+<br><br>
+  <a href="https://www.linkedin.com/in/vitor-ferreira-vaz-2b0319265/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:vitorvazemp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
