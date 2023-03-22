@@ -1,9 +1,6 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Vitoryu/e82d1856f87bf495e7cbb45b6bd55e53/raw/d4df3b2adb0f00f17e8b6fe66f8f7d12750cc672/githubcard.svg"/>
-
-
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Vitor</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vitoryu&color=green" alt="Profile views" /> </p>
-- 🔭 I’m currently working with JavaScript / PHP / Laravel / Mysql<br>
+- 🔭 I’m currently working with JavaScript / PHP / Laravel / Mysql on Conceito Assessoria e Tecnologia<br>
 - 🌱 I’m currently learning VUE.js<br>
 - 📫 How to reach me: vitorvazemp@gmail.com<br>
 - 😄 Pronouns: He/Him - Ele/Dele<br>
@@ -20,16 +17,6 @@
 ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)&nbsp;
 
-
-
-<br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="480em" src="https://github-readme-stats.vercel.app/api?username=Vitoryu&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitoryu&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
-</p>
 
 <br><br>
   <a href="https://www.linkedin.com/in/vitor-ferreira-vaz-2b0319265/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
