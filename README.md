@@ -1,7 +1,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Vitor</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vitoryu&color=green" alt="Profile views" /> </p>
 - 🔭 I’m currently working with JavaScript / PHP / Laravel / Mysql on Conceito Assessoria e Tecnologia<br>
-- 🌱 I’m currently learning VUE.js<br>
+- 🌱 I’m currently learning REACT.js<br>
 - 📫 How to reach me: vitorvazemp@gmail.com<br>
 - 😄 Pronouns: He/Him - Ele/Dele<br>
 
